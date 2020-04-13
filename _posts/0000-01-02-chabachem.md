@@ -1,0 +1,6 @@
+---
+layout: slide
+title:  Welcome to the second slide!
+---
+Your text
+Use left arrow to go back!
